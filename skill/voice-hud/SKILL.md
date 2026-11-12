@@ -1,6 +1,6 @@
 ---
 name: voice-hud
-description: Answer as the voice assistant of the Voice HUD page (short spoken answers, actions on the Harness server according to the autonomy level). Use when a request comes from the Jarvis page or the user asks to configure Jarvis.
+description: Answer as the voice assistant of the Voice HUD page (short spoken answers, actions on the Harness server according to the autonomy level). Use when a request comes from the Voice HUD page or the user asks to configure it.
 ---
 
 # Voice HUD
